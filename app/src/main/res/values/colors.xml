@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="transparent">#</color>
+    <color name="stone">#7C89AB</color>
+    <color name="denim">#292F47</color>
+    <color name="biscotti">#DCC25E</color>
+    <color name="tangerine">#DC7A34</color>
+    <color name="teal">#1E9299</color>
+    <color name="cider">#C27A4E</color>
+    <color name="white">#FCFCFC</color>
+
+</resources>

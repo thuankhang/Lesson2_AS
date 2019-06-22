@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Lesson2</string>
+    <string name="screen_signup">Sign up</string>
+    <string name="screen_who">WHO ARE YOU?</string>
+    <string name="screen_user">Username</string>
+    <string name="screen_email">Email</string>
+    <string name="screen_pass">Password</string>
+    <string name="screen_confirmpass">Confirm Password</string>
+    <string name="button_signup">SIGNUP</string>
+    <string name="screen_login">Already have an account. </string>
+    <string name="button_login">Login here</string>
+    <string name="screen_child">CHILD</string>
+    <string name="screen_parent">PARENT</string>
+    <string name="screen_teacher">TEACHER</string>
+
+</resources>

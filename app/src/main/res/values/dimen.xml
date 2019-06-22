@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin">8dp</dimen>
+    <dimen name="screen_login_width">160dp</dimen>
+    <dimen name="screen_login_height">24dp</dimen>
+    <dimen name="button_login_width">73dp</dimen>
+    <dimen name="button_login_height">24</dimen>
+    <dimen name="screen_signup_width">251dp</dimen>
+    <dimen name="screen_signup_height">76dp</dimen>
+    <dimen name="screen_signup_size">45dp</dimen>
+    <dimen name="screen_who_width">113dp</dimen>
+    <dimen name="screen_who_height">29dp</dimen>
+    <dimen name="screen_who_size">16dp</dimen>
+    <dimen name="image_button_width">108dp</dimen>
+    <dimen name="image_button_height">109dp</dimen>
+    <dimen name="image_button_absoluteY">172dp</dimen>
+    <dimen name="parent_child_teacher_width">108dp</dimen>
+    <dimen name="parent_child_teacher_height">24dp</dimen>
+    <dimen name="parent_child_teacher_absoluteY">257dp</dimen>
+    <dimen name="parent_absoluteX">43dp</dimen>
+    <dimen name="teacher_absoluteX">259dp</dimen>
+    <dimen name="screen_icon">40dp</dimen>
+    <dimen name="margin_icon">20dp</dimen>
+    <dimen name="screen_uepcp_width">329dp</dimen>
+    <dimen name="screen_uepcp_height">40dp</dimen>
+    <dimen name="screen_uepcp_size">18dp</dimen>
+    <dimen name="button_signup_width">329dp</dimen>
+    <dimen name="button_signup_height">60dp</dimen>
+
+</resources>
